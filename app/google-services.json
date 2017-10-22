@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "190967154467",
+    "firebase_url": "https://tasleemproject-372cc.firebaseio.com",
+    "project_id": "tasleemproject-372cc",
+    "storage_bucket": "tasleemproject-372cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190967154467:android:e0c26434e0167522",
+        "android_client_info": {
+          "package_name": "com.techdevfan.tasleemproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "190967154467-d8f3a1092l9oefs889nmtvmnmstovm4o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.techdevfan.tasleemproject",
+            "certificate_hash": "e30a049662b6a070e58008e27a358709adf02d00"
+          }
+        },
+        {
+          "client_id": "190967154467-hritii6usodnm9s0i1jfbkrpmib8c2o2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjLNDdCmRDbcWPee-dB74mccUawSj8LAI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "190967154467-hritii6usodnm9s0i1jfbkrpmib8c2o2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
