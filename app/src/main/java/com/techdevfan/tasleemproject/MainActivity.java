@@ -41,7 +41,6 @@ public class MainActivity extends AppCompatActivity implements GoogleApiClient.C
 
     public static final int RC_CAMERA_PICK_IMAGE = 101;
 
-
     public static final int PERM_ALL = 200;
     public static final int PERM_CAMERA_PICK_IMAGE = 201;
     public static final int PERM_ACCESS_LOCATION = 202;
@@ -308,7 +307,7 @@ public class MainActivity extends AppCompatActivity implements GoogleApiClient.C
 
                     mBinding.progressBar.setVisibility(View.GONE);
                     mBinding.btnImageUpload.setEnabled(true);
-                    
+
                     Uri uri = taskSnapshot.getDownloadUrl();
                     Log.d(TAG, "onSuccess: " + uri);
                 }
